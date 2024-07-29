@@ -1,0 +1,15 @@
+=> Model: robust machine-learning model
+=> Approach:
+	-> Gathering the Data: Kaggle
+	-> Cleaning the Data: label encoder
+	-> Model Building: Support Vector Classifier, Naive Bayes Classifier, and Random Forest Classifier
+	-> Inference
+
+
+-> Import the important library
+-> Try to understand the data and clean
+-> Then if need you can do encoding
+-> After ten split the data to evaluate the model
+-> Now building the model then evaluate the model depend on the test and train data
+-> Now finally fit the model with whole data then try the final prediction with test data
+-> 
